@@ -13,4 +13,5 @@ module.exports = {
     },
   },
   plugins: [],
+  darkMode: "class", // use the class only for the dark mode
 };
