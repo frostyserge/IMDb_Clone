@@ -15,7 +15,7 @@ export default function Header () {
                 <DarkModeToggle />
                 <Link href="/">
                     <h2>
-                        <span className="font-bold bg-yellow-500 py-2 rounded-lg mr-1">IMDb</span>
+                        <span className="font-bold bg-yellow-500 px-2 py-2 rounded-lg mr-1">IMDb</span>
                         <span className="text-xl hidden sm:inline">Clone</span>
                     </h2>
                 </Link>
